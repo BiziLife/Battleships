@@ -14,6 +14,7 @@ This is a C++ script that will display a battle ship game board
 # Changing Board Game 
 
 So the boardGame.txt file has '#' and '~'
+
 if you want to add a ship change the '~' to a '#'
 if you want to remove a ship change the '#' to '~'
 
